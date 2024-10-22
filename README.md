@@ -11,9 +11,9 @@ single time.
 ## License
 
 This project is licensed under the
-[CC0-1.0](https://github.com/toolbi-org/repo-template/blob/main/LICENSE)
+[CC0-1.0](https://github.com/nightalike/repo-template/blob/main/LICENSE)
 license. Click
-[here](https://github.com/toolbi-org/repo-template/blob/main/LICENSE) for more
+[here](https://github.com/nightalike/repo-template/blob/main/LICENSE) for more
 information.
 
 ---
