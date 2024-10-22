@@ -2,6 +2,11 @@
 
 Template to make every repository a good repository.
 
+## Note
+
+This repository is a fork of
+toolbi-org/[repo-template](https://github.com/toolbi-org/repo-template).
+
 ## Why?
 
 Managing a lot of repositories is hard, and it's even harder when you want all
@@ -18,4 +23,4 @@ information.
 
 ---
 
-###### Copyright (c) Toolbi. All rights reserved.
+###### Copyright (c) NIGHTALIKE. All rights reserved.

@@ -67,4 +67,4 @@ permission.
 
 ---
 
-###### Copyright (c) Toolbi. All rights reserved.
+###### Copyright (c) NIGHTALIKE. All rights reserved.
