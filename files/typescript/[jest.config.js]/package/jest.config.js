@@ -1,4 +1,4 @@
-// Copyright (c) Toolbi. All rights reserved.
+// Copyright (c) NIGHTALIKE. All rights reserved.
 // See the LICENSE file in the project root for details.
 
 import { Config } from "jest";
