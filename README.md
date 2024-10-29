@@ -5,7 +5,7 @@ Template to make every repository a good repository.
 ## Note
 
 This repository is a fork of
-toolbi-org/[repo-template](https://github.com/toolbi-org/repo-template).
+[**toolbi-org/repo-template**](https://github.com/toolbi-org/repo-template).
 
 ## Why?
 
